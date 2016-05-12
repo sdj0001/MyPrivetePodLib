@@ -1,0 +1,6 @@
+framework module MyPrivetePodLib {
+  umbrella header "MyPrivetePodLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
